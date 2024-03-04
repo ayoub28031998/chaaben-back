@@ -1,0 +1,8 @@
+<Configurations>
+	<Configuration id="x">		 
+		<Serveur>.\sql2014</Serveur>		 
+		<Db>ISS_Traite</Db>		 
+		<Usr>sa</Usr>
+		<Pwd>ideal2s</Pwd>             
+	</Configuration>
+</Configurations>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "m24LrBh4cMcGGHX9yoymt0rzGXCc7RojeR25O141UJg=",
+  "Source": "API_SurveillenceCommerciale",
+  "BasePath": "_content/API_SurveillenceCommerciale",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
